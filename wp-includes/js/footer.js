@@ -9,8 +9,7 @@ let appFooter = `
 <section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact Info</h2> <div class="textwidget"><p>Vazhayila, Trivandrum,<br/>
 Kerala, India.<br/>
 +91 938 777 5006<br/>
-<a href="../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="91f2feffe5f0f2e5d1f6f0e3f5f4ffbff2fefc">[email&#160;protected]</a><br/>
-<a href="../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2b42454d446b4c4a594f4e4505484446">[email&#160;protected]</a></p>
+<a href="../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="91f2feffe5f0f2e5d1f6f0e3f5f4ffbff2fefc">rehnarajan@gmail.com</a>
 </div>
 </section> </aside>
 </div>

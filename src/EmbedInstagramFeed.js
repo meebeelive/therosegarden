@@ -6,10 +6,11 @@ export class EmbedInstagramFeed extends LitElement {
   static get styles() {
     return css`
       .nc-section {
-        font-family: "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI",
+        /*font-family: "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI",
           Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";
-        background-color: #161616;
+          "Segoe UI Emoji", "Segoe UI Symbol";*/
+        font-family: inherit;
+        background-color: inherit;
         padding: 1rem;
       }
       .nc-section a {
@@ -50,6 +51,7 @@ export class EmbedInstagramFeed extends LitElement {
         margin-bottom: 0.75rem;
         display: flex;
         align-items: center;
+        justify-content: center;
       }
       .nc-title img {
         width: 38px;
@@ -70,6 +72,7 @@ export class EmbedInstagramFeed extends LitElement {
         font-size: 0.875rem;
         line-height: 1.25rem;
         margin-bottom: 0.75rem;
+        text-align: center;
       }
 
       .nc-caption {
