@@ -179,6 +179,7 @@ export class EmbedInstagramFeed extends LitElement {
               console.log(count);
               if(count < feedLimit){
                 if (item.media_type === "IMAGE") {
+                  ++count;
                   return html`
                   <a target="_blank" rel="noopener" href="${item.permalink}">
                     <div>
