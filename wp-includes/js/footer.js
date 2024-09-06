@@ -6,10 +6,10 @@ let appFooter = `
 <div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
 <div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1">
-<section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact Info</h2> <div class="textwidget"><p>25-B, P.R.A, Vazhayila, Trivandrum,<br/>
+<section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact Info</h2> <div class="textwidget"><p>25-B, P.R.A, Vazhayila,<br/>Trivandrum,
 Kerala, India.<br/>
 +91 938 777 5006<br/>
-<a href="../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="91f2feffe5f0f2e5d1f6f0e3f5f4ffbff2fefc">rajan.rehna@gmail.com</a>
+<a href="mailto:rajan.rehna@gmail.com" class="__cf_email__" data-cfemail="91f2feffe5f0f2e5d1f6f0e3f5f4ffbff2fefc">rajan.rehna@gmail.com</a>
 </div>
 </section> </aside>
 </div>
@@ -33,7 +33,7 @@ Kerala, India.<br/>
 </div>
 <div class="site-footer-primary-section-4 site-footer-section site-footer-section-4">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-4" aria-label="Footer Widget 4">
-<section id="media_image-3" class="widget widget_media_image"><img width="75" height="75" src="./wp-content/uploads/sites/277/2020/07/garden-maintenance-logo-1.svg" class="image wp-image-555  attachment-75x75 size-75x75 astra-logo-svg" alt style="max-width: 100%; height: auto;" decoding="async" /></section><section id="text-6" class="widget widget_text"><h2 class="widget-title">Plants. Lawns. Landscaping.</h2> <div class="textwidget"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<section id="media_image-3" class="widget widget_media_image"><img width="75" height="75" src="./wp-content/uploads/sites/277/2020/07/garden-maintenance-logo-1.svg" class="image wp-image-555  attachment-75x75 size-75x75 astra-logo-svg" alt style="max-width: 100%; height: auto;" decoding="async" /></section><section id="text-6" class="widget widget_text"><h2 class="widget-title">PLANTS. LAWNS. LANDSCAPING.</h2> <div class="textwidget"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
 </div>
 </section> </aside>
 </div>
