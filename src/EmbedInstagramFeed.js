@@ -165,6 +165,7 @@ export class EmbedInstagramFeed extends LitElement {
   render() {
     let htmlTemplate = "";
     if (this.url && this.url.includes("nocodeapi.com")) {
+      var feedLimit = 12;
       htmlTemplate = html`
       <section class="nc-section">
         <div class="nc-container" v-if="url">
@@ -174,30 +175,34 @@ export class EmbedInstagramFeed extends LitElement {
           <p class="nc-subtitle">${this.subtitle}</p>
           <div class="nc-feed">
             ${this.data.map((item) => {
-              if (item.media_type === "IMAGE") {
-                return html`
-                <a target="_blank" rel="noopener" href="${item.permalink}">
-                  <div>
-                    <div class="nc-feed-item">
-                      <img loading="lazy" src="${item.media_url}" alt="${item.caption}" class="nc-insta-image"/>
+              var count=0;
+              if(count <= feedLimit){
+                if (item.media_type === "IMAGE") {
+                  return html`
+                  <a target="_blank" rel="noopener" href="${item.permalink}">
+                    <div>
+                      <div class="nc-feed-item">
+                        <img loading="lazy" src="${item.media_url}" alt="${item.caption}" class="nc-insta-image"/>
+                      </div>
+                      <p class="nc-caption">${item.caption}</p>
+                      </div>
+                    </div>
+                  </a>
+                  `;
+                }
+                if (item.media_type === "VIDEO") {
+                  return html`
+                  <a target="_blank" rel="noopener" href="${item.permalink}">
+                    <div class="nc-feed-item nc-video">
+                      <img loading="lazy" src="${item.thumbnail_url}" alt="${item.caption}" class="nc-insta-image"/>
+                      <img class="nc-video-player-icon" src="https://api.iconify.design/ph:play-circle-fill.svg" height="24" width="24"/>
                     </div>
                     <p class="nc-caption">${item.caption}</p>
                     </div>
-                  </div>
-                </a>
-                `;
-              }
-              if (item.media_type === "VIDEO") {
-                return html`
-                <a target="_blank" rel="noopener" href="${item.permalink}">
-                  <div class="nc-feed-item nc-video">
-                    <img loading="lazy" src="${item.thumbnail_url}" alt="${item.caption}" class="nc-insta-image"/>
-                    <img class="nc-video-player-icon" src="https://api.iconify.design/ph:play-circle-fill.svg" height="24" width="24"/>
-                  </div>
-                  <p class="nc-caption">${item.caption}</p>
-                  </div>
-                </a>
-                `;
+                  </a>
+                  `;
+                }
+                count++;
               }
             })}
         </div>
