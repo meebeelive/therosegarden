@@ -17,6 +17,7 @@ Kerala, India.<br/>
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-2" aria-label="Footer Widget 2">
 <section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Quick Links</h2><nav class="menu-quick-links-container" aria-label="Quick Links">
 <ul id="menu-quick-links" class="menu">
+<li id="menu-item-641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-641"><a href="https://www.meebee.live/category/all-products" class="menu-link" target="_blank">Shop</a></li>
 <li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="./about.html" class="menu-link">About</a></li>
 <li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="./services.html" class="menu-link">Services</a></li>
 <li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="./projects.html" class="menu-link">Projects</a></li>
