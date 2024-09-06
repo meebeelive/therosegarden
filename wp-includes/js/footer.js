@@ -6,7 +6,7 @@ let appFooter = `
 <div class="ast-builder-footer-grid-columns site-primary-footer-inner-wrap ast-builder-grid-row">
 <div class="site-footer-primary-section-1 site-footer-section site-footer-section-1">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-1" aria-label="Footer Widget 1">
-<section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact Info</h2> <div class="textwidget"><p>Vazhayila, Trivandrum,<br/>
+<section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact Info</h2> <div class="textwidget"><p>25-B, P.R.A, Vazhayila, Trivandrum,<br/>
 Kerala, India.<br/>
 +91 938 777 5006<br/>
 <a href="../cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="91f2feffe5f0f2e5d1f6f0e3f5f4ffbff2fefc">rajan.rehna@gmail.com</a>
