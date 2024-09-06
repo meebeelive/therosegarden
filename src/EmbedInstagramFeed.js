@@ -57,7 +57,7 @@ export class EmbedInstagramFeed extends LitElement {
       }
 
       .nc-title p {
-        font-size: 1.875rem;
+        font-size: 2.5rem;
         line-height: 2.25rem;
         color: #0d3c00;
         font-weight: 600;
