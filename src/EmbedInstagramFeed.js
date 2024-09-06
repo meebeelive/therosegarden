@@ -6,9 +6,6 @@ export class EmbedInstagramFeed extends LitElement {
   static get styles() {
     return css`
       .nc-section {
-        /*font-family: "Avenir", -apple-system, BlinkMacSystemFont, "Segoe UI",
-          Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji",
-          "Segoe UI Emoji", "Segoe UI Symbol";*/
         font-family: inherit;
         background-color: inherit;
         padding: 1rem;
