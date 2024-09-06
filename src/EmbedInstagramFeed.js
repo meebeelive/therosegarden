@@ -165,7 +165,7 @@ export class EmbedInstagramFeed extends LitElement {
   render() {
     let htmlTemplate = "";
     if (this.url && this.url.includes("nocodeapi.com")) {
-      var feedLimit = 12;
+      var feedLimit = 10;
       htmlTemplate = html`
       <section class="nc-section">
         <div class="nc-container" v-if="url">
