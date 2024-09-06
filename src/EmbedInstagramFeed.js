@@ -59,7 +59,7 @@ export class EmbedInstagramFeed extends LitElement {
       .nc-title p {
         font-size: 1.875rem;
         line-height: 2.25rem;
-        color: #2d3748;
+        color: #0d3c00;
         font-weight: 600;
         margin: 0;
       }
@@ -73,7 +73,7 @@ export class EmbedInstagramFeed extends LitElement {
       }
 
       .nc-caption {
-        color: #2d3748;
+        color: #0d3c00;
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
