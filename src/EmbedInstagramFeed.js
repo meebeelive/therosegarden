@@ -177,8 +177,8 @@ export class EmbedInstagramFeed extends LitElement {
           <div class="nc-feed">
             ${this.data.map((item) => {
               if(count < feedLimit){
+                ++count;
                 if (item.media_type === "IMAGE") {
-                  ++count;
                   return html`
                   <a target="_blank" rel="noopener" href="${item.permalink}">
                     <div>
