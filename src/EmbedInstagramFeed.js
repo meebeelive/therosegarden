@@ -186,7 +186,7 @@ export class EmbedInstagramFeed extends LitElement {
                       <div class="nc-feed-item">
                         <img loading="lazy" src="${item.media_url}" alt="${item.caption}" class="nc-insta-image"/>
                       </div>
-                      <p class="nc-caption">${item.caption}</p>
+                      <!-- <p class="nc-caption">${item.caption}</p> -->
                       </div>
                     </div>
                   </a>
@@ -199,7 +199,7 @@ export class EmbedInstagramFeed extends LitElement {
                       <img loading="lazy" src="${item.thumbnail_url}" alt="${item.caption}" class="nc-insta-image"/>
                       <img class="nc-video-player-icon" src="https://api.iconify.design/ph:play-circle-fill.svg" height="24" width="24"/>
                     </div>
-                    <p class="nc-caption">${item.caption}</p>
+                    <!-- <p class="nc-caption">${item.caption}</p> -->
                     </div>
                   </a>
                   `;
