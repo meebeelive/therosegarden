@@ -1,5 +1,6 @@
-import { html, css, LitElement } from "lit-element";
+//import { html, css, LitElement } from "lit-element";
 //import { html, css, LitElement } from "https://unpkg.com/@polymer/lit-element@latest/lit-element.js?module";
+import { html, css, LitElement } from "https://unpkg.com/lit-element@^2.5.1?module";
 
 export class EmbedInstagramFeed extends LitElement {
   static get styles() {
