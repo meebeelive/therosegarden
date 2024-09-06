@@ -33,7 +33,7 @@ Kerala, India.<br/>
 </div>
 <div class="site-footer-primary-section-4 site-footer-section site-footer-section-4">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-4" aria-label="Footer Widget 4">
-<section id="media_image-3" class="widget widget_media_image"><img width="75" height="75" src="./wp-content/uploads/sites/277/2020/07/garden-maintenance-logo-1.svg" class="image wp-image-555  attachment-75x75 size-75x75 astra-logo-svg" alt style="max-width: 100%; height: auto;" decoding="async" /></section><section id="text-6" class="widget widget_text"><h2 class="widget-title">DESIGN. TRANSFORM. ENJOY.</h2> <div class="textwidget"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<section id="media_image-3" class="widget widget_media_image"><img width="75" height="75" src="./wp-content/uploads/sites/277/2020/07/garden-maintenance-logo-1.svg" class="image wp-image-555  attachment-75x75 size-75x75 astra-logo-svg" alt style="max-width: 100%; height: auto;" decoding="async" /></section><section id="text-6" class="widget widget_text"><h2 class="widget-title">Plants. Lawns. Landscaping.</h2> <div class="textwidget"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
 </div>
 </section> </aside>
 </div>
