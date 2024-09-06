@@ -176,7 +176,6 @@ export class EmbedInstagramFeed extends LitElement {
           <p class="nc-subtitle">${this.subtitle}</p>
           <div class="nc-feed">
             ${this.data.map((item) => {
-              console.log(count);
               if(count < feedLimit){
                 if (item.media_type === "IMAGE") {
                   ++count;
