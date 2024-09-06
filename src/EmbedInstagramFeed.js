@@ -165,7 +165,9 @@ export class EmbedInstagramFeed extends LitElement {
   render() {
     let htmlTemplate = "";
     if (this.url && this.url.includes("nocodeapi.com")) {
-      var feedLimit = 10;
+      var feedLimit = 12;
+      var count=0;
+      console.log(feedLimit);
       htmlTemplate = html`
       <section class="nc-section">
         <div class="nc-container" v-if="url">
@@ -175,7 +177,8 @@ export class EmbedInstagramFeed extends LitElement {
           <p class="nc-subtitle">${this.subtitle}</p>
           <div class="nc-feed">
             ${this.data.map((item) => {
-              var count=0;
+
+              console.log(count);
               if(count <= feedLimit){
                 if (item.media_type === "IMAGE") {
                   return html`
