@@ -9,7 +9,7 @@ let appFooter = `
 <section id="text-3" class="widget widget_text"><h2 class="widget-title">Contact Info</h2> <div class="textwidget"><p>25-B, P.R.A, Vazhayila,<br/>Trivandrum,
 Kerala, India.<br/>
 +91 938 777 5006<br/>
-<a href="mailto:rajan.rehna@gmail.com" class="__cf_email__" data-cfemail="91f2feffe5f0f2e5d1f6f0e3f5f4ffbff2fefc">rajan.rehna@gmail.com</a>
+<a href="mailto:rajan.rehna@gmail.com" target="_blank">rajan.rehna@gmail.com</a>
 </div>
 </section> </aside>
 </div>
