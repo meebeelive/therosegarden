@@ -15,7 +15,9 @@ Kerala, India.<br/>
 </div>
 <div class="site-footer-primary-section-2 site-footer-section site-footer-section-2">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-2" aria-label="Footer Widget 2">
-<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Quick Links</h2><nav class="menu-quick-links-container" aria-label="Quick Links"><ul id="menu-quick-links" class="menu"><li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="./about.html" class="menu-link">About</a></li>
+<section id="nav_menu-3" class="widget widget_nav_menu"><h2 class="widget-title">Quick Links</h2><nav class="menu-quick-links-container" aria-label="Quick Links">
+<ul id="menu-quick-links" class="menu">
+<li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="./about.html" class="menu-link">About</a></li>
 <li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="./services.html" class="menu-link">Services</a></li>
 <li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="./projects.html" class="menu-link">Projects</a></li>
 <li id="menu-item-645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645"><a href="./faq.html" class="menu-link">FAQ</a></li>
@@ -24,11 +26,13 @@ Kerala, India.<br/>
 </div>
 <div class="site-footer-primary-section-3 site-footer-section site-footer-section-3">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-3" aria-label="Footer Widget 3">
-<section id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widget-title">Our Services</h2><nav class="menu-our-services-container" aria-label="Our Services"><ul id="menu-our-services" class="menu"><li id="menu-item-649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-649"><a href="#" class="menu-link">Landscape Design</a></li>
-<li id="menu-item-650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-650"><a href="#" class="menu-link">Garden Care</a></li>
-<li id="menu-item-651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651"><a href="#" class="menu-link">Planting</a></li>
-<li id="menu-item-652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-652"><a href="#" class="menu-link">Irrigation</a></li>
-<li id="menu-item-653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-653"><a href="#" class="menu-link">Drainage</a></li>
+<section id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widget-title">Our Services</h2><nav class="menu-our-services-container" aria-label="Our Services">
+<ul id="menu-our-services" class="menu">
+<li id="menu-item-649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-649"><a href="./services.html" class="menu-link">Landscape Design</a></li>
+<li id="menu-item-650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-650"><a href="./services.html" class="menu-link">Garden Care</a></li>
+<li id="menu-item-651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651"><a href="./services.html" class="menu-link">Planting</a></li>
+<li id="menu-item-652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-652"><a href="./services.html" class="menu-link">Irrigation</a></li>
+<li id="menu-item-653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-653"><a href="./services.html" class="menu-link">Drainage</a></li>
 </ul></nav></section> </aside>
 </div>
 <div class="site-footer-primary-section-4 site-footer-section site-footer-section-4">
