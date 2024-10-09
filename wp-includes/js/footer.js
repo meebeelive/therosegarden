@@ -21,7 +21,6 @@ Kerala, India.<br/>
 <li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="./about.html" class="menu-link">About</a></li>
 <li id="menu-item-643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-643"><a href="./services.html" class="menu-link">Services</a></li>
 <li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="./projects.html" class="menu-link">Projects</a></li>
-<li id="menu-item-645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645"><a href="./faq.html" class="menu-link">FAQ</a></li>
 <li id="menu-item-646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-646"><a href="./contact.html" class="menu-link">Contact</a></li>
 </ul></nav></section> </aside>
 </div>
@@ -29,16 +28,14 @@ Kerala, India.<br/>
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-3" aria-label="Footer Widget 3">
 <section id="nav_menu-5" class="widget widget_nav_menu"><h2 class="widget-title">Our Services</h2><nav class="menu-our-services-container" aria-label="Our Services">
 <ul id="menu-our-services" class="menu">
-<li id="menu-item-649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-649"><a href="./services.html" class="menu-link">Landscape Design</a></li>
-<li id="menu-item-650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-650"><a href="./services.html" class="menu-link">Garden Care</a></li>
-<li id="menu-item-651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651"><a href="./services.html" class="menu-link">Planting</a></li>
-<li id="menu-item-652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-652"><a href="./services.html" class="menu-link">Irrigation</a></li>
-<li id="menu-item-653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-653"><a href="./services.html" class="menu-link">Drainage</a></li>
+<li id="menu-item-649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-649"><a href="./services.html" class="menu-link">Landscaping</a></li>
+<li id="menu-item-650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-650"><a href="./services.html" class="menu-link">Potted Plants</a></li>
+<li id="menu-item-651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-651"><a href="./services.html" class="menu-link">Plants for  Retail Business</a></li>
 </ul></nav></section> </aside>
 </div>
 <div class="site-footer-primary-section-4 site-footer-section site-footer-section-4">
 <aside class="footer-widget-area widget-area site-footer-focus-item footer-widget-area-inner" data-section="sidebar-widgets-footer-widget-4" aria-label="Footer Widget 4">
-<section id="media_image-3" class="widget widget_media_image"><img width="75" height="75" src="./wp-content/uploads/sites/277/2020/07/garden-maintenance-logo-1.svg" class="image wp-image-555  attachment-75x75 size-75x75 astra-logo-svg" alt style="max-width: 100%; height: auto;" decoding="async" /></section><section id="text-6" class="widget widget_text"><h2 class="widget-title">PLANTS. LAWNS. LANDSCAPING.</h2> <div class="textwidget"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+<section id="media_image-3" class="widget widget_media_image"><img width="75" height="75" src="./wp-content/uploads/sites/277/2020/07/garden-maintenance-logo-1.svg" class="image wp-image-555  attachment-75x75 size-75x75 astra-logo-svg" alt style="max-width: 100%; height: auto;" decoding="async" /></section><section id="text-6" class="widget widget_text"><h2 class="widget-title">PLANTS. LAWNS. LANDSCAPING.</h2> <div class="textwidget"><p>Contact us today to discuss your gardening goals and get started on creating the garden of your dreams.</p>
 </div>
 </section> </aside>
 </div>
