@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Prevent indexing of static script and asset directories if not needed
+Disallow: /cdn-cgi/
+Disallow: /wp-includes/
+
+# Sitemap Location
+Sitemap: https://www.rosegardens.in/sitemap.xml
