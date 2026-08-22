@@ -1,2 +1,13 @@
-
+# OS metadata
 .DS_Store
+Thumbs.db
+__MACOSX/
+
+# Development / Editor files
+.vscode/
+.idea/
+*.log
+
+# Build / Backup files
+*.zip
+*.tar.gz
